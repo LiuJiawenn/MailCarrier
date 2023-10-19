@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  MailCarrierPro.cpp
+  MailCarrierProDoc.cpp
+  MailCarrierProView.cpp
+d:\20210607笔记本备份\c++\mailcarrierpro\mailcarrierpro\mailcarrierproview.cpp(224): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MainFrm.cpp
+  SelectControl.cpp
+  State.cpp
+  正在生成代码...
+  MailCarrierPro.vcxproj -> D:\20210607笔记本备份\C++\MailCarrierPro\x64\Debug\MailCarrierPro.exe
