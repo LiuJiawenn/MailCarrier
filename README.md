@@ -6,13 +6,13 @@ Simply download all these file in your path. Open the .sln file with Visual stud
 Then run the MainFrm.cpp
 ## Guide
 ### click on the board to add dots
-<image src = "https://github.com/LiuJiawenn/TravelingSalesman/assets/124513316/196ca91e-798e-433d-a03b-0e787e3595e1" style = "width:500px" ><image/>
+<image src = "https://github.com/LiuJiawenn/MailCarrier/assets/124513316/2112a8b4-d7b5-4528-a0bf-6d5028737ea9" style = "width:500px" ><image/>
 
 ### drag from dot to dot to add an edge
-<image src = "https://github.com/LiuJiawenn/TravelingSalesman/assets/124513316/9f9c6699-76b2-4062-818d-e9a1cea5f0bb" style = "width:500px" ><image/>
+<image src = "https://github.com/LiuJiawenn/MailCarrier/assets/124513316/9cdd58a6-2c73-4295-9d6e-0173414dbea5" style = "width:500px" ><image/>
 
 ### click on the "开始寻路" button to start the routing, the points and edges will be lit sequentially in the calculated order.
-<image src = "https://github.com/LiuJiawenn/TravelingSalesman/assets/124513316/dda4bc8c-50e7-4f67-a48c-4fbc0d3a1a9f" style = "width:500px" ><image/>
+<image src = "https://github.com/LiuJiawenn/MailCarrier/assets/124513316/29a1a1bd-7f89-4531-a2a0-94e3fb55a1cf" style = "width:500px" ><image/>
 
 ### If an edge is passed twice, it will turn back to red. Click on "清屏" to clear all points and egdes and then you can begin a new routing
-<image src = "https://github.com/LiuJiawenn/TravelingSalesman/assets/124513316/ab82ee42-6577-4e91-96c0-a28d838c0ebf" style = "width:500px" ><image/>
+<image src = "https://github.com/LiuJiawenn/MailCarrier/assets/124513316/93f63151-151a-4e1f-83ad-453c815b66dc" style = "width:500px" ><image/>
