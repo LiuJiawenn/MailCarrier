@@ -1,7 +1,7 @@
 # MailCarrier
 This project solves the **Chinese postman problem** of undirected graph in a visual form. Users can easily initialize the point set and edge set through interaction and start calculation. The running time of this project is not guaranteed. The running time will increase significantly when the number of edges increases.
 
-## To unstall
+## To install
 Simply download all these file in your path. Open the .sln file with Visual studio 2015, or other versions(but you need to agree to the MENU->program->Retarget the solution). 
 Then run the MainFrm.cpp
 ## Guide
